@@ -17,7 +17,7 @@ public class HelloWorld {
         System.out.println("COURSE TITLE: Computer Programming I");
 
         // EDITABLE PLACEHOLDER: Replace with your actual programme of study
-        System.out.println("PROGRAMME: [Enter Your Programme, e.g., Cybersecurity / Computer Science]");
+        System.out.println("PROGRAMME: [Enter Your Programme: CYBERSECURITY]");
 
         System.out.println("WEEK: 2");
         System.out.println("TOPIC: Development Environment and Java");
