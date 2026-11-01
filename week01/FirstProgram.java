@@ -17,7 +17,7 @@ public class FirstProgram {
         System.out.println("Course: COS 201 - Computer Programming I");
 
         // EDITABLE PLACEHOLDER: Replace with your actual programme of study (e.g., Cybersecurity, Computer Science, etc.)
-        System.out.println("Programme: [Enter Your Programme, e.g., Cybersecurity / Computer Science]");
+        System.out.println("Programme: [CYBERSECURITY]");
         System.out.println("==================================================");
 
         // Three reasons why programming is important to this computing discipline
@@ -29,7 +29,7 @@ public class FirstProgram {
         System.out.println("--------------------------------------------------");
 
         // EDITABLE PLACEHOLDER: Replace with your personal learning goal for COS 201
-        System.out.println("My Goal: [Editable Example] To master core Java programming principles, develop clean coding habits, and build reliable software.");
+        System.out.println("My Goal: To master core Java programming principles, develop clean coding habits, and build reliable software.");
         System.out.println("==================================================");
     }
 }
