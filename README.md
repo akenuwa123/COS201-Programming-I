@@ -5,8 +5,6 @@
 ---
 
 ## Student Information
-> [!IMPORTANT]
-> Please update the editable placeholders below with your personal academic details before final submission.
 
 - **Full Name:** `AKENUWA OMONUWA KELVIN`
 - **Matriculation Number:** `25/16790`
